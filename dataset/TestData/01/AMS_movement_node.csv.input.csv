@@ -1,0 +1,8 @@
+node_id,QEM_reference_node_id,QEM_CycleLength,up_node_id,dest_node_id,name,turn_type,turn_direction,prohibitted_flag,protected_flag,permitted_flag,sim_turn_volume,sim_turn_hourly_volume,sim_turn_percentage,sim_turn_delay_in_second,obs_turn_volume,obs_turn_hourly_volume,obs_turn_percentage,obs_turn_delay_in_second,QEM_TurnDirection,QEM_TurnVolume,QEM_LinkVolume,QEM_Lanes,QEM_Shared,QEM_Width,QEM_Storage,QEM_StLanes,QEM_Grade,QEM_Speed,QEM_IdealFlow,QEM_LostTime,QEM_Phase1,QEM_PermPhase1,QEM_DetectPhase1,QEM_EffectiveGreen,QEM_Capacity,QEM_VOC,QEM_Delay,QEM_LOS,QEM_SatFlow,
+31, ,100,37,36, ,Through,NBT,0,0,0,0,0,0,0,0,0,0,0, ,0,0,3,0,12,0,0,0,65,1900,4,0,0,0,0,0,0,0, ,1900,
+31, ,100,37,32, ,Right,NBR,0,0,0,0,0,0,0,0,0,0,0, ,0,0,1,0,12,0,0,0,40,1900,4,0,0,0,0,0,0,0, ,1900,
+31, ,100,36,32, ,Left,SBL,0,0,0,0,0,0,0,0,0,0,0, ,0,0,1,0,12,0,0,0,40,1900,4,0,0,0,0,0,0,0, ,1400,
+31, ,100,36,37, ,Through,SBT,0,0,0,0,0,0,0,0,0,0,0, ,0,0,3,0,12,0,0,0,65,1900,4,0,0,0,0,0,0,0, ,1900,
+31, ,100,30,36, ,Left,EBL,0,0,0,0,0,0,0,0,0,0,0, ,0,0,1,0,12,0,0,0,40,1900,4,0,0,0,0,0,0,0, ,1400,
+31, ,100,30,32, ,Through,EBT,0,0,0,3600,3600,100,6.94501e-005,0,0,0,0, ,3600,0,2,0,12,0,0,0,45,1900,4,0,0,0,0,0,0,0, ,1900,
+31, ,100,30,37, ,Right,EBR,0,0,0,0,0,0,0,0,0,0,0, ,0,0,1,0,12,0,0,0,40,1900,4,0,0,0,0,0,0,0, ,1900,

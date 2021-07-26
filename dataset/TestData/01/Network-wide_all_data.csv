@@ -1,0 +1,1137 @@
+Vehicle Selection Mode,--,Network-wide,--
+Category,All Vehicles/Agents,Number of Vehicles,7200.00
+Category,All Vehicles/Agents,Cumulative Number of Vehicles,7200.00
+Category,All Vehicles/Agents,Total Travel Time (min),80822.93
+Category,All Vehicles/Agents,Total Travel Distance (mile),79200.00
+Category,All Vehicles/Agents,Avg Travel Time (min),11.23
+Category,All Vehicles/Agents,Avg Travel Distance (mile),11.00
+Category,All Vehicles/Agents,Avg Speed (mile/hour),58.80
+Category,All Vehicles/Agents,Avg Travel Time Per Mile (min/mile), 1.02
+Category,All Vehicles/Agents,Travel Time Index: mean/FFTT, 1.02
+Category,All Vehicles/Agents,Avg Travel Time STD (min), 0.08
+Category,All Vehicles/Agents,95th Percentile Travel Time (min),11.38
+Category,All Vehicles/Agents,90th Percentile Travel Time (min),11.35
+Category,All Vehicles/Agents,80th Percentile Travel Time (min),11.30
+Category,All Vehicles/Agents,Planning Time Index: 95th percentile/FFTT, 1.03
+Category,All Vehicles/Agents,Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,All Vehicles/Agents,Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,All Vehicles/Agents,95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,All Vehicles/Agents,90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,All Vehicles/Agents,80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,All Vehicles/Agents,Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,All Vehicles/Agents,Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,All Vehicles/Agents,Total Energy (KJ),192303392.00
+Category,All Vehicles/Agents,Total CO2 (g),13864093.00
+Category,All Vehicles/Agents,Total NOx (g),30274.76
+Category,All Vehicles/Agents,Total CO (g),163192.75
+Category,All Vehicles/Agents,Total HC (g),4561.51
+Category,All Vehicles/Agents,Total Gallon,1580.14
+Category,All Vehicles/Agents,Avg Energy (KJ/mile),2428.07
+Category,All Vehicles/Agents,Avg CO2 (g/mile),175.05
+Category,All Vehicles/Agents,Avg NOx (g/mile), 0.38
+Category,All Vehicles/Agents,Avg CO (g/mile), 2.06
+Category,All Vehicles/Agents,Avg HC (g/mile), 0.06
+Category,All Vehicles/Agents,Avg Miles per Gallon,50.12
+Category,SOV  HOV  Truck,Number of Vehicles,
+,,SOV,6480.00
+,,HOV,360.00
+,,truck,360.00
+Category,SOV  HOV  Truck,Cumulative Number of Vehicles,
+,,SOV,6480.00
+,,HOV,6840.00
+,,truck,7200.00
+Category,SOV  HOV  Truck,Total Travel Time (min),
+,,SOV,72746.51
+,,HOV,4036.80
+,,truck,4039.70
+Category,SOV  HOV  Truck,Total Travel Distance (mile),
+,,SOV,71280.00
+,,HOV,3960.00
+,,truck,3960.00
+Category,SOV  HOV  Truck,Avg Travel Time (min),
+,,SOV,11.23
+,,HOV,11.21
+,,truck,11.22
+Category,SOV  HOV  Truck,Avg Travel Distance (mile),
+,,SOV,11.00
+,,HOV,11.00
+,,truck,11.00
+Category,SOV  HOV  Truck,Avg Speed (mile/hour),
+,,SOV,58.79
+,,HOV,58.86
+,,truck,58.82
+Category,SOV  HOV  Truck,Avg Travel Time Per Mile (min/mile),
+,,SOV, 1.02
+,,HOV, 1.02
+,,truck, 1.02
+Category,SOV  HOV  Truck,Travel Time Index: mean/FFTT,
+,,SOV, 1.02
+,,HOV, 1.02
+,,truck, 1.02
+Category,SOV  HOV  Truck,Avg Travel Time STD (min),
+,,SOV, 0.08
+,,HOV, 0.07
+,,truck, 0.08
+Category,SOV  HOV  Truck,95th Percentile Travel Time (min),
+,,SOV,11.38
+,,HOV,11.35
+,,truck,11.39
+Category,SOV  HOV  Truck,90th Percentile Travel Time (min),
+,,SOV,11.35
+,,HOV,11.32
+,,truck,11.34
+Category,SOV  HOV  Truck,80th Percentile Travel Time (min),
+,,SOV,11.30
+,,HOV,11.28
+,,truck,11.28
+Category,SOV  HOV  Truck,Planning Time Index: 95th percentile/FFTT,
+,,SOV, 1.03
+,,HOV, 1.03
+,,truck, 1.04
+Category,SOV  HOV  Truck,Buffer Index: (95th percentile - mean)/mean,
+,,SOV, 0.01
+,,HOV, 0.01
+,,truck, 0.02
+Category,SOV  HOV  Truck,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,SOV, 1.73
+,,HOV, 1.60
+,,truck, 1.75
+Category,SOV  HOV  Truck,95th Percentile Travel Time Per Mile (min/mile),
+,,SOV, 1.03
+,,HOV, 1.03
+,,truck, 1.04
+Category,SOV  HOV  Truck,90th Percentile Travel Time Per Mile (min/mile),
+,,SOV, 1.03
+,,HOV, 1.03
+,,truck, 1.03
+Category,SOV  HOV  Truck,80th Percentile Travel Time Per Mile (min/mile),
+,,SOV, 1.03
+,,HOV, 1.03
+,,truck, 1.03
+Category,SOV  HOV  Truck,Total Generalized Time:TT+Toll/VOT (min),
+,,SOV,72746.51
+,,HOV,4036.80
+,,truck,4039.70
+Category,SOV  HOV  Truck,Avg Generalized Travel Time:TT+Toll/VOT (min),
+,,SOV,11.23
+,,HOV,11.21
+,,truck,11.22
+Category,SOV  HOV  Truck,Total Energy (KJ),
+,,SOV,151621616.00
+,,HOV,8408888.00
+,,truck,32273010.00
+Category,SOV  HOV  Truck,Total CO2 (g),
+,,SOV,10896542.00
+,,HOV,604319.25
+,,truck,2363249.00
+Category,SOV  HOV  Truck,Total NOx (g),
+,,SOV,12170.58
+,,HOV,726.95
+,,truck,17377.31
+Category,SOV  HOV  Truck,Total CO (g),
+,,SOV,147737.03
+,,HOV,8606.87
+,,truck,6848.79
+Category,SOV  HOV  Truck,Total HC (g),
+,,SOV,3192.21
+,,HOV,199.12
+,,truck,1170.19
+Category,SOV  HOV  Truck,Total Gallon,
+,,SOV,1245.86
+,,HOV,69.10
+,,truck,265.18
+Category,SOV  HOV  Truck,Avg Energy (KJ/mile),
+,,SOV,2127.13
+,,HOV,2123.46
+,,truck,8149.75
+Category,SOV  HOV  Truck,Avg CO2 (g/mile),
+,,SOV,152.87
+,,HOV,152.61
+,,truck,596.78
+Category,SOV  HOV  Truck,Avg NOx (g/mile),
+,,SOV, 0.17
+,,HOV, 0.18
+,,truck, 4.39
+Category,SOV  HOV  Truck,Avg CO (g/mile),
+,,SOV, 2.07
+,,HOV, 2.17
+,,truck, 1.73
+Category,SOV  HOV  Truck,Avg HC (g/mile),
+,,SOV, 0.04
+,,HOV, 0.05
+,,truck, 0.30
+Category,SOV  HOV  Truck,Avg Miles per Gallon,
+,,SOV,57.21
+,,HOV,57.31
+,,truck,14.93
+Category,15-min Departure Time Interval,Number of Vehicles,
+,,07:00_07:15,900.00
+,,07:15_07:30,900.00
+,,07:30_07:45,900.00
+,,07:45_08:00,900.00
+,,08:00_08:15,900.00
+,,08:15_08:30,900.00
+,,08:30_08:45,900.00
+,,08:45_09:00,900.00
+Category,15-min Departure Time Interval,Cumulative Number of Vehicles,
+,,07:00_07:15,900.00
+,,07:15_07:30,1800.00
+,,07:30_07:45,2700.00
+,,07:45_08:00,3600.00
+,,08:00_08:15,4500.00
+,,08:15_08:30,5400.00
+,,08:30_08:45,6300.00
+,,08:45_09:00,7200.00
+Category,15-min Departure Time Interval,Total Travel Time (min),
+,,07:00_07:15,10049.54
+,,07:15_07:30,10062.97
+,,07:30_07:45,10066.76
+,,07:45_08:00,10068.79
+,,08:00_08:15,10064.81
+,,08:15_08:30,10116.60
+,,08:30_08:45,10182.82
+,,08:45_09:00,10210.65
+Category,15-min Departure Time Interval,Total Travel Distance (mile),
+,,07:00_07:15,9900.00
+,,07:15_07:30,9900.00
+,,07:30_07:45,9900.00
+,,07:45_08:00,9900.00
+,,08:00_08:15,9900.00
+,,08:15_08:30,9900.00
+,,08:30_08:45,9900.00
+,,08:45_09:00,9900.00
+Category,15-min Departure Time Interval,Avg Travel Time (min),
+,,07:00_07:15,11.17
+,,07:15_07:30,11.18
+,,07:30_07:45,11.19
+,,07:45_08:00,11.19
+,,08:00_08:15,11.18
+,,08:15_08:30,11.24
+,,08:30_08:45,11.31
+,,08:45_09:00,11.35
+Category,15-min Departure Time Interval,Avg Travel Distance (mile),
+,,07:00_07:15,11.00
+,,07:15_07:30,11.00
+,,07:30_07:45,11.00
+,,07:45_08:00,11.00
+,,08:00_08:15,11.00
+,,08:15_08:30,11.00
+,,08:30_08:45,11.00
+,,08:45_09:00,11.00
+Category,15-min Departure Time Interval,Avg Speed (mile/hour),
+,,07:00_07:15,59.11
+,,07:15_07:30,59.03
+,,07:30_07:45,59.01
+,,07:45_08:00,58.99
+,,08:00_08:15,59.02
+,,08:15_08:30,58.72
+,,08:30_08:45,58.33
+,,08:45_09:00,58.17
+Category,15-min Departure Time Interval,Avg Travel Time Per Mile (min/mile),
+,,07:00_07:15, 1.02
+,,07:15_07:30, 1.02
+,,07:30_07:45, 1.02
+,,07:45_08:00, 1.02
+,,08:00_08:15, 1.02
+,,08:15_08:30, 1.02
+,,08:30_08:45, 1.03
+,,08:45_09:00, 1.03
+Category,15-min Departure Time Interval,Travel Time Index: mean/FFTT,
+,,07:00_07:15, 1.02
+,,07:15_07:30, 1.02
+,,07:30_07:45, 1.02
+,,07:45_08:00, 1.02
+,,08:00_08:15, 1.02
+,,08:15_08:30, 1.02
+,,08:30_08:45, 1.03
+,,08:45_09:00, 1.03
+Category,15-min Departure Time Interval,Avg Travel Time STD (min),
+,,07:00_07:15, 0.05
+,,07:15_07:30, 0.05
+,,07:30_07:45, 0.05
+,,07:45_08:00, 0.05
+,,08:00_08:15, 0.05
+,,08:15_08:30, 0.07
+,,08:30_08:45, 0.06
+,,08:45_09:00, 0.05
+Category,15-min Departure Time Interval,95th Percentile Travel Time (min),
+,,07:00_07:15,11.26
+,,07:15_07:30,11.27
+,,07:30_07:45,11.27
+,,07:45_08:00,11.28
+,,08:00_08:15,11.27
+,,08:15_08:30,11.35
+,,08:30_08:45,11.41
+,,08:45_09:00,11.44
+Category,15-min Departure Time Interval,90th Percentile Travel Time (min),
+,,07:00_07:15,11.24
+,,07:15_07:30,11.25
+,,07:30_07:45,11.25
+,,07:45_08:00,11.26
+,,08:00_08:15,11.25
+,,08:15_08:30,11.33
+,,08:30_08:45,11.39
+,,08:45_09:00,11.41
+Category,15-min Departure Time Interval,80th Percentile Travel Time (min),
+,,07:00_07:15,11.21
+,,07:15_07:30,11.22
+,,07:30_07:45,11.23
+,,07:45_08:00,11.23
+,,08:00_08:15,11.23
+,,08:15_08:30,11.30
+,,08:30_08:45,11.37
+,,08:45_09:00,11.39
+Category,15-min Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,07:00_07:15, 1.02
+,,07:15_07:30, 1.02
+,,07:30_07:45, 1.02
+,,07:45_08:00, 1.03
+,,08:00_08:15, 1.02
+,,08:15_08:30, 1.03
+,,08:30_08:45, 1.04
+,,08:45_09:00, 1.04
+Category,15-min Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,07:00_07:15, 1.20
+,,07:15_07:30, 1.28
+,,07:30_07:45, 1.17
+,,07:45_08:00, 1.38
+,,08:00_08:15, 1.27
+,,08:15_08:30, 1.03
+,,08:30_08:45, 1.02
+,,08:45_09:00, 1.18
+Category,15-min Departure Time Interval,95th Percentile Travel Time Per Mile (min/mile),
+,,07:00_07:15, 1.02
+,,07:15_07:30, 1.02
+,,07:30_07:45, 1.02
+,,07:45_08:00, 1.03
+,,08:00_08:15, 1.02
+,,08:15_08:30, 1.03
+,,08:30_08:45, 1.04
+,,08:45_09:00, 1.04
+Category,15-min Departure Time Interval,90th Percentile Travel Time Per Mile (min/mile),
+,,07:00_07:15, 1.02
+,,07:15_07:30, 1.02
+,,07:30_07:45, 1.02
+,,07:45_08:00, 1.02
+,,08:00_08:15, 1.02
+,,08:15_08:30, 1.03
+,,08:30_08:45, 1.04
+,,08:45_09:00, 1.04
+Category,15-min Departure Time Interval,80th Percentile Travel Time Per Mile (min/mile),
+,,07:00_07:15, 1.02
+,,07:15_07:30, 1.02
+,,07:30_07:45, 1.02
+,,07:45_08:00, 1.02
+,,08:00_08:15, 1.02
+,,08:15_08:30, 1.03
+,,08:30_08:45, 1.03
+,,08:45_09:00, 1.04
+Category,15-min Departure Time Interval,Total Generalized Time:TT+Toll/VOT (min),
+,,07:00_07:15,10049.54
+,,07:15_07:30,10062.97
+,,07:30_07:45,10066.76
+,,07:45_08:00,10068.79
+,,08:00_08:15,10064.81
+,,08:15_08:30,10116.60
+,,08:30_08:45,10182.82
+,,08:45_09:00,10210.65
+Category,15-min Departure Time Interval,Avg Generalized Travel Time:TT+Toll/VOT (min),
+,,07:00_07:15,11.17
+,,07:15_07:30,11.18
+,,07:30_07:45,11.19
+,,07:45_08:00,11.19
+,,08:00_08:15,11.18
+,,08:15_08:30,11.24
+,,08:30_08:45,11.31
+,,08:45_09:00,11.35
+Category,15-min Departure Time Interval,Total Energy (KJ),
+,,07:00_07:15,28323214.00
+,,07:15_07:30,25782622.00
+,,07:30_07:45,25639772.00
+,,07:45_08:00,24528680.00
+,,08:00_08:15,23757740.00
+,,08:15_08:30,21521824.00
+,,08:30_08:45,20850922.00
+,,08:45_09:00,21898332.00
+Category,15-min Departure Time Interval,Total CO2 (g),
+,,07:00_07:15,2042007.25
+,,07:15_07:30,1858783.63
+,,07:30_07:45,1849018.63
+,,07:45_08:00,1768354.25
+,,08:00_08:15,1713259.75
+,,08:15_08:30,1551680.25
+,,08:30_08:45,1502801.50
+,,08:45_09:00,1578191.00
+Category,15-min Departure Time Interval,Total NOx (g),
+,,07:00_07:15,4973.20
+,,07:15_07:30,4004.76
+,,07:30_07:45,4359.82
+,,07:45_08:00,3730.12
+,,08:00_08:15,3939.08
+,,08:15_08:30,3033.05
+,,08:30_08:45,3012.80
+,,08:45_09:00,3221.99
+Category,15-min Departure Time Interval,Total CO (g),
+,,07:00_07:15,25397.13
+,,07:15_07:30,23452.73
+,,07:30_07:45,22573.97
+,,07:45_08:00,21133.16
+,,08:00_08:15,19493.17
+,,08:15_08:30,16766.70
+,,08:30_08:45,17115.53
+,,08:45_09:00,17260.39
+Category,15-min Departure Time Interval,Total HC (g),
+,,07:00_07:15,640.75
+,,07:15_07:30,615.61
+,,07:30_07:45,626.48
+,,07:45_08:00,574.79
+,,08:00_08:15,564.19
+,,08:15_08:30,488.15
+,,08:30_08:45,519.04
+,,08:45_09:00,532.51
+Category,15-min Departure Time Interval,Total Gallon,
+,,07:00_07:15,232.73
+,,07:15_07:30,211.85
+,,07:30_07:45,210.68
+,,07:45_08:00,201.55
+,,08:00_08:15,195.22
+,,08:15_08:30,176.84
+,,08:30_08:45,171.33
+,,08:45_09:00,179.94
+Category,15-min Departure Time Interval,Avg Energy (KJ/mile),
+,,07:00_07:15,2860.93
+,,07:15_07:30,2604.31
+,,07:30_07:45,2589.88
+,,07:45_08:00,2477.64
+,,08:00_08:15,2399.77
+,,08:15_08:30,2173.92
+,,08:30_08:45,2106.15
+,,08:45_09:00,2211.95
+Category,15-min Departure Time Interval,Avg CO2 (g/mile),
+,,07:00_07:15,206.26
+,,07:15_07:30,187.76
+,,07:30_07:45,186.77
+,,07:45_08:00,178.62
+,,08:00_08:15,173.06
+,,08:15_08:30,156.74
+,,08:30_08:45,151.80
+,,08:45_09:00,159.41
+Category,15-min Departure Time Interval,Avg NOx (g/mile),
+,,07:00_07:15, 0.50
+,,07:15_07:30, 0.40
+,,07:30_07:45, 0.44
+,,07:45_08:00, 0.38
+,,08:00_08:15, 0.40
+,,08:15_08:30, 0.31
+,,08:30_08:45, 0.30
+,,08:45_09:00, 0.33
+Category,15-min Departure Time Interval,Avg CO (g/mile),
+,,07:00_07:15, 2.57
+,,07:15_07:30, 2.37
+,,07:30_07:45, 2.28
+,,07:45_08:00, 2.13
+,,08:00_08:15, 1.97
+,,08:15_08:30, 1.69
+,,08:30_08:45, 1.73
+,,08:45_09:00, 1.74
+Category,15-min Departure Time Interval,Avg HC (g/mile),
+,,07:00_07:15, 0.06
+,,07:15_07:30, 0.06
+,,07:30_07:45, 0.06
+,,07:45_08:00, 0.06
+,,08:00_08:15, 0.06
+,,08:15_08:30, 0.05
+,,08:30_08:45, 0.05
+,,08:45_09:00, 0.05
+Category,15-min Departure Time Interval,Avg Miles per Gallon,
+,,07:00_07:15,42.54
+,,07:15_07:30,46.73
+,,07:30_07:45,46.99
+,,07:45_08:00,49.12
+,,08:00_08:15,50.71
+,,08:15_08:30,55.98
+,,08:30_08:45,57.78
+,,08:45_09:00,55.02
+Category,30-min Departure Time Interval,Number of Vehicles,
+,,07:00_07:30,1800.00
+,,07:30_08:00,1800.00
+,,08:00_08:30,1800.00
+,,08:30_09:00,1800.00
+Category,30-min Departure Time Interval,Cumulative Number of Vehicles,
+,,07:00_07:30,1800.00
+,,07:30_08:00,3600.00
+,,08:00_08:30,5400.00
+,,08:30_09:00,7200.00
+Category,30-min Departure Time Interval,Total Travel Time (min),
+,,07:00_07:30,20112.50
+,,07:30_08:00,20135.57
+,,08:00_08:30,20181.40
+,,08:30_09:00,20393.46
+Category,30-min Departure Time Interval,Total Travel Distance (mile),
+,,07:00_07:30,19800.00
+,,07:30_08:00,19800.00
+,,08:00_08:30,19800.00
+,,08:30_09:00,19800.00
+Category,30-min Departure Time Interval,Avg Travel Time (min),
+,,07:00_07:30,11.17
+,,07:30_08:00,11.19
+,,08:00_08:30,11.21
+,,08:30_09:00,11.33
+Category,30-min Departure Time Interval,Avg Travel Distance (mile),
+,,07:00_07:30,11.00
+,,07:30_08:00,11.00
+,,08:00_08:30,11.00
+,,08:30_09:00,11.00
+Category,30-min Departure Time Interval,Avg Speed (mile/hour),
+,,07:00_07:30,59.07
+,,07:30_08:00,59.00
+,,08:00_08:30,58.87
+,,08:30_09:00,58.25
+Category,30-min Departure Time Interval,Avg Travel Time Per Mile (min/mile),
+,,07:00_07:30, 1.02
+,,07:30_08:00, 1.02
+,,08:00_08:30, 1.02
+,,08:30_09:00, 1.03
+Category,30-min Departure Time Interval,Travel Time Index: mean/FFTT,
+,,07:00_07:30, 1.02
+,,07:30_08:00, 1.02
+,,08:00_08:30, 1.02
+,,08:30_09:00, 1.03
+Category,30-min Departure Time Interval,Avg Travel Time STD (min),
+,,07:00_07:30, 0.05
+,,07:30_08:00, 0.05
+,,08:00_08:30, 0.06
+,,08:30_09:00, 0.06
+Category,30-min Departure Time Interval,95th Percentile Travel Time (min),
+,,07:00_07:30,11.27
+,,07:30_08:00,11.27
+,,08:00_08:30,11.33
+,,08:30_09:00,11.42
+Category,30-min Departure Time Interval,90th Percentile Travel Time (min),
+,,07:00_07:30,11.25
+,,07:30_08:00,11.26
+,,08:00_08:30,11.30
+,,08:30_09:00,11.40
+Category,30-min Departure Time Interval,80th Percentile Travel Time (min),
+,,07:00_07:30,11.21
+,,07:30_08:00,11.23
+,,08:00_08:30,11.27
+,,08:30_09:00,11.38
+Category,30-min Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,07:00_07:30, 1.02
+,,07:30_08:00, 1.02
+,,08:00_08:30, 1.03
+,,08:30_09:00, 1.04
+Category,30-min Departure Time Interval,Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,30-min Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,07:00_07:30, 1.24
+,,07:30_08:00, 1.28
+,,08:00_08:30, 1.22
+,,08:30_09:00, 1.08
+Category,30-min Departure Time Interval,95th Percentile Travel Time Per Mile (min/mile),
+,,07:00_07:30, 1.02
+,,07:30_08:00, 1.02
+,,08:00_08:30, 1.03
+,,08:30_09:00, 1.04
+Category,30-min Departure Time Interval,90th Percentile Travel Time Per Mile (min/mile),
+,,07:00_07:30, 1.02
+,,07:30_08:00, 1.02
+,,08:00_08:30, 1.03
+,,08:30_09:00, 1.04
+Category,30-min Departure Time Interval,80th Percentile Travel Time Per Mile (min/mile),
+,,07:00_07:30, 1.02
+,,07:30_08:00, 1.02
+,,08:00_08:30, 1.02
+,,08:30_09:00, 1.03
+Category,30-min Departure Time Interval,Total Generalized Time:TT+Toll/VOT (min),
+,,07:00_07:30,20112.50
+,,07:30_08:00,20135.57
+,,08:00_08:30,20181.40
+,,08:30_09:00,20393.46
+Category,30-min Departure Time Interval,Avg Generalized Travel Time:TT+Toll/VOT (min),
+,,07:00_07:30,11.17
+,,07:30_08:00,11.19
+,,08:00_08:30,11.21
+,,08:30_09:00,11.33
+Category,30-min Departure Time Interval,Total Energy (KJ),
+,,07:00_07:30,54105836.00
+,,07:30_08:00,50168428.00
+,,08:00_08:30,45279508.00
+,,08:30_09:00,42749248.00
+Category,30-min Departure Time Interval,Total CO2 (g),
+,,07:00_07:30,3900793.75
+,,07:30_08:00,3617368.50
+,,08:00_08:30,3264940.00
+,,08:30_09:00,3080989.50
+Category,30-min Departure Time Interval,Total NOx (g),
+,,07:00_07:30,8977.96
+,,07:30_08:00,8089.94
+,,08:00_08:30,6972.14
+,,08:30_09:00,6234.80
+Category,30-min Departure Time Interval,Total CO (g),
+,,07:00_07:30,48849.81
+,,07:30_08:00,43707.13
+,,08:00_08:30,36259.89
+,,08:30_09:00,34375.92
+Category,30-min Departure Time Interval,Total HC (g),
+,,07:00_07:30,1256.36
+,,07:30_08:00,1201.27
+,,08:00_08:30,1052.34
+,,08:30_09:00,1051.55
+Category,30-min Departure Time Interval,Total Gallon,
+,,07:00_07:30,444.58
+,,07:30_08:00,412.23
+,,08:00_08:30,372.06
+,,08:30_09:00,351.27
+Category,30-min Departure Time Interval,Avg Energy (KJ/mile),
+,,07:00_07:30,2732.62
+,,07:30_08:00,2533.76
+,,08:00_08:30,2286.84
+,,08:30_09:00,2159.05
+Category,30-min Departure Time Interval,Avg CO2 (g/mile),
+,,07:00_07:30,197.01
+,,07:30_08:00,182.70
+,,08:00_08:30,164.90
+,,08:30_09:00,155.61
+Category,30-min Departure Time Interval,Avg NOx (g/mile),
+,,07:00_07:30, 0.45
+,,07:30_08:00, 0.41
+,,08:00_08:30, 0.35
+,,08:30_09:00, 0.31
+Category,30-min Departure Time Interval,Avg CO (g/mile),
+,,07:00_07:30, 2.47
+,,07:30_08:00, 2.21
+,,08:00_08:30, 1.83
+,,08:30_09:00, 1.74
+Category,30-min Departure Time Interval,Avg HC (g/mile),
+,,07:00_07:30, 0.06
+,,07:30_08:00, 0.06
+,,08:00_08:30, 0.05
+,,08:30_09:00, 0.05
+Category,30-min Departure Time Interval,Avg Miles per Gallon,
+,,07:00_07:30,44.54
+,,07:30_08:00,48.03
+,,08:00_08:30,53.22
+,,08:30_09:00,56.37
+Category,1-hour Departure Time Interval,Number of Vehicles,
+,,07:00_08:00,3600.00
+,,08:00_09:00,3600.00
+Category,1-hour Departure Time Interval,Cumulative Number of Vehicles,
+,,07:00_08:00,3600.00
+,,08:00_09:00,7200.00
+Category,1-hour Departure Time Interval,Total Travel Time (min),
+,,07:00_08:00,40248.07
+,,08:00_09:00,40574.83
+Category,1-hour Departure Time Interval,Total Travel Distance (mile),
+,,07:00_08:00,39600.00
+,,08:00_09:00,39600.00
+Category,1-hour Departure Time Interval,Avg Travel Time (min),
+,,07:00_08:00,11.18
+,,08:00_09:00,11.27
+Category,1-hour Departure Time Interval,Avg Travel Distance (mile),
+,,07:00_08:00,11.00
+,,08:00_09:00,11.00
+Category,1-hour Departure Time Interval,Avg Speed (mile/hour),
+,,07:00_08:00,59.03
+,,08:00_09:00,58.56
+Category,1-hour Departure Time Interval,Avg Travel Time Per Mile (min/mile),
+,,07:00_08:00, 1.02
+,,08:00_09:00, 1.02
+Category,1-hour Departure Time Interval,Travel Time Index: mean/FFTT,
+,,07:00_08:00, 1.02
+,,08:00_09:00, 1.02
+Category,1-hour Departure Time Interval,Avg Travel Time STD (min),
+,,07:00_08:00, 0.05
+,,08:00_09:00, 0.08
+Category,1-hour Departure Time Interval,95th Percentile Travel Time (min),
+,,07:00_08:00,11.27
+,,08:00_09:00,11.40
+Category,1-hour Departure Time Interval,90th Percentile Travel Time (min),
+,,07:00_08:00,11.25
+,,08:00_09:00,11.38
+Category,1-hour Departure Time Interval,80th Percentile Travel Time (min),
+,,07:00_08:00,11.22
+,,08:00_09:00,11.35
+Category,1-hour Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,07:00_08:00, 1.02
+,,08:00_09:00, 1.04
+Category,1-hour Departure Time Interval,Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,1-hour Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,07:00_08:00, 1.25
+,,08:00_09:00, 0.88
+Category,1-hour Departure Time Interval,95th Percentile Travel Time Per Mile (min/mile),
+,,07:00_08:00, 1.02
+,,08:00_09:00, 1.04
+Category,1-hour Departure Time Interval,90th Percentile Travel Time Per Mile (min/mile),
+,,07:00_08:00, 1.02
+,,08:00_09:00, 1.03
+Category,1-hour Departure Time Interval,80th Percentile Travel Time Per Mile (min/mile),
+,,07:00_08:00, 1.02
+,,08:00_09:00, 1.03
+Category,1-hour Departure Time Interval,Total Generalized Time:TT+Toll/VOT (min),
+,,07:00_08:00,40248.07
+,,08:00_09:00,40574.83
+Category,1-hour Departure Time Interval,Avg Generalized Travel Time:TT+Toll/VOT (min),
+,,07:00_08:00,11.18
+,,08:00_09:00,11.27
+Category,1-hour Departure Time Interval,Total Energy (KJ),
+,,07:00_08:00,104274296.00
+,,08:00_09:00,88028584.00
+Category,1-hour Departure Time Interval,Total CO2 (g),
+,,07:00_08:00,7518168.00
+,,08:00_09:00,6345931.50
+Category,1-hour Departure Time Interval,Total NOx (g),
+,,07:00_08:00,17067.89
+,,08:00_09:00,13206.92
+Category,1-hour Departure Time Interval,Total CO (g),
+,,07:00_08:00,92556.94
+,,08:00_09:00,70635.77
+Category,1-hour Departure Time Interval,Total HC (g),
+,,07:00_08:00,2457.63
+,,08:00_09:00,2103.89
+Category,1-hour Departure Time Interval,Total Gallon,
+,,07:00_08:00,856.81
+,,08:00_09:00,723.32
+Category,1-hour Departure Time Interval,Avg Energy (KJ/mile),
+,,07:00_08:00,2633.19
+,,08:00_09:00,2222.94
+Category,1-hour Departure Time Interval,Avg CO2 (g/mile),
+,,07:00_08:00,189.85
+,,08:00_09:00,160.25
+Category,1-hour Departure Time Interval,Avg NOx (g/mile),
+,,07:00_08:00, 0.43
+,,08:00_09:00, 0.33
+Category,1-hour Departure Time Interval,Avg CO (g/mile),
+,,07:00_08:00, 2.34
+,,08:00_09:00, 1.78
+Category,1-hour Departure Time Interval,Avg HC (g/mile),
+,,07:00_08:00, 0.06
+,,08:00_09:00, 0.05
+Category,1-hour Departure Time Interval,Avg Miles per Gallon,
+,,07:00_08:00,46.22
+,,08:00_09:00,54.75
+Category,2-hour Departure Time Interval,Number of Vehicles,
+,,06:00_08:00,3600.00
+,,08:00_10:00,3600.00
+Category,2-hour Departure Time Interval,Cumulative Number of Vehicles,
+,,06:00_08:00,3600.00
+,,08:00_10:00,7200.00
+Category,2-hour Departure Time Interval,Total Travel Time (min),
+,,06:00_08:00,40248.07
+,,08:00_10:00,40574.83
+Category,2-hour Departure Time Interval,Total Travel Distance (mile),
+,,06:00_08:00,39600.00
+,,08:00_10:00,39600.00
+Category,2-hour Departure Time Interval,Avg Travel Time (min),
+,,06:00_08:00,11.18
+,,08:00_10:00,11.27
+Category,2-hour Departure Time Interval,Avg Travel Distance (mile),
+,,06:00_08:00,11.00
+,,08:00_10:00,11.00
+Category,2-hour Departure Time Interval,Avg Speed (mile/hour),
+,,06:00_08:00,59.03
+,,08:00_10:00,58.56
+Category,2-hour Departure Time Interval,Avg Travel Time Per Mile (min/mile),
+,,06:00_08:00, 1.02
+,,08:00_10:00, 1.02
+Category,2-hour Departure Time Interval,Travel Time Index: mean/FFTT,
+,,06:00_08:00, 1.02
+,,08:00_10:00, 1.02
+Category,2-hour Departure Time Interval,Avg Travel Time STD (min),
+,,06:00_08:00, 0.05
+,,08:00_10:00, 0.08
+Category,2-hour Departure Time Interval,95th Percentile Travel Time (min),
+,,06:00_08:00,11.27
+,,08:00_10:00,11.40
+Category,2-hour Departure Time Interval,90th Percentile Travel Time (min),
+,,06:00_08:00,11.25
+,,08:00_10:00,11.38
+Category,2-hour Departure Time Interval,80th Percentile Travel Time (min),
+,,06:00_08:00,11.22
+,,08:00_10:00,11.35
+Category,2-hour Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,06:00_08:00, 1.02
+,,08:00_10:00, 1.04
+Category,2-hour Departure Time Interval,Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,2-hour Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,06:00_08:00, 1.25
+,,08:00_10:00, 0.88
+Category,2-hour Departure Time Interval,95th Percentile Travel Time Per Mile (min/mile),
+,,06:00_08:00, 1.02
+,,08:00_10:00, 1.04
+Category,2-hour Departure Time Interval,90th Percentile Travel Time Per Mile (min/mile),
+,,06:00_08:00, 1.02
+,,08:00_10:00, 1.03
+Category,2-hour Departure Time Interval,80th Percentile Travel Time Per Mile (min/mile),
+,,06:00_08:00, 1.02
+,,08:00_10:00, 1.03
+Category,2-hour Departure Time Interval,Total Generalized Time:TT+Toll/VOT (min),
+,,06:00_08:00,40248.07
+,,08:00_10:00,40574.83
+Category,2-hour Departure Time Interval,Avg Generalized Travel Time:TT+Toll/VOT (min),
+,,06:00_08:00,11.18
+,,08:00_10:00,11.27
+Category,2-hour Departure Time Interval,Total Energy (KJ),
+,,06:00_08:00,104274296.00
+,,08:00_10:00,88028584.00
+Category,2-hour Departure Time Interval,Total CO2 (g),
+,,06:00_08:00,7518168.00
+,,08:00_10:00,6345931.50
+Category,2-hour Departure Time Interval,Total NOx (g),
+,,06:00_08:00,17067.89
+,,08:00_10:00,13206.92
+Category,2-hour Departure Time Interval,Total CO (g),
+,,06:00_08:00,92556.94
+,,08:00_10:00,70635.77
+Category,2-hour Departure Time Interval,Total HC (g),
+,,06:00_08:00,2457.63
+,,08:00_10:00,2103.89
+Category,2-hour Departure Time Interval,Total Gallon,
+,,06:00_08:00,856.81
+,,08:00_10:00,723.32
+Category,2-hour Departure Time Interval,Avg Energy (KJ/mile),
+,,06:00_08:00,2633.19
+,,08:00_10:00,2222.94
+Category,2-hour Departure Time Interval,Avg CO2 (g/mile),
+,,06:00_08:00,189.85
+,,08:00_10:00,160.25
+Category,2-hour Departure Time Interval,Avg NOx (g/mile),
+,,06:00_08:00, 0.43
+,,08:00_10:00, 0.33
+Category,2-hour Departure Time Interval,Avg CO (g/mile),
+,,06:00_08:00, 2.34
+,,08:00_10:00, 1.78
+Category,2-hour Departure Time Interval,Avg HC (g/mile),
+,,06:00_08:00, 0.06
+,,08:00_10:00, 0.05
+Category,2-hour Departure Time Interval,Avg Miles per Gallon,
+,,06:00_08:00,46.22
+,,08:00_10:00,54.75
+Category,4-hour Departure Time Interval,Number of Vehicles,
+,,04:00_08:00,3600.00
+,,08:00_12:00,3600.00
+Category,4-hour Departure Time Interval,Cumulative Number of Vehicles,
+,,04:00_08:00,3600.00
+,,08:00_12:00,7200.00
+Category,4-hour Departure Time Interval,Total Travel Time (min),
+,,04:00_08:00,40248.07
+,,08:00_12:00,40574.83
+Category,4-hour Departure Time Interval,Total Travel Distance (mile),
+,,04:00_08:00,39600.00
+,,08:00_12:00,39600.00
+Category,4-hour Departure Time Interval,Avg Travel Time (min),
+,,04:00_08:00,11.18
+,,08:00_12:00,11.27
+Category,4-hour Departure Time Interval,Avg Travel Distance (mile),
+,,04:00_08:00,11.00
+,,08:00_12:00,11.00
+Category,4-hour Departure Time Interval,Avg Speed (mile/hour),
+,,04:00_08:00,59.03
+,,08:00_12:00,58.56
+Category,4-hour Departure Time Interval,Avg Travel Time Per Mile (min/mile),
+,,04:00_08:00, 1.02
+,,08:00_12:00, 1.02
+Category,4-hour Departure Time Interval,Travel Time Index: mean/FFTT,
+,,04:00_08:00, 1.02
+,,08:00_12:00, 1.02
+Category,4-hour Departure Time Interval,Avg Travel Time STD (min),
+,,04:00_08:00, 0.05
+,,08:00_12:00, 0.08
+Category,4-hour Departure Time Interval,95th Percentile Travel Time (min),
+,,04:00_08:00,11.27
+,,08:00_12:00,11.40
+Category,4-hour Departure Time Interval,90th Percentile Travel Time (min),
+,,04:00_08:00,11.25
+,,08:00_12:00,11.38
+Category,4-hour Departure Time Interval,80th Percentile Travel Time (min),
+,,04:00_08:00,11.22
+,,08:00_12:00,11.35
+Category,4-hour Departure Time Interval,Planning Time Index: 95th percentile/FFTT,
+,,04:00_08:00, 1.02
+,,08:00_12:00, 1.04
+Category,4-hour Departure Time Interval,Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,4-hour Departure Time Interval,Skew Index: (90th %ile-median)/(median-10th %ile),
+,,04:00_08:00, 1.25
+,,08:00_12:00, 0.88
+Category,4-hour Departure Time Interval,95th Percentile Travel Time Per Mile (min/mile),
+,,04:00_08:00, 1.02
+,,08:00_12:00, 1.04
+Category,4-hour Departure Time Interval,90th Percentile Travel Time Per Mile (min/mile),
+,,04:00_08:00, 1.02
+,,08:00_12:00, 1.03
+Category,4-hour Departure Time Interval,80th Percentile Travel Time Per Mile (min/mile),
+,,04:00_08:00, 1.02
+,,08:00_12:00, 1.03
+Category,4-hour Departure Time Interval,Total Generalized Time:TT+Toll/VOT (min),
+,,04:00_08:00,40248.07
+,,08:00_12:00,40574.83
+Category,4-hour Departure Time Interval,Avg Generalized Travel Time:TT+Toll/VOT (min),
+,,04:00_08:00,11.18
+,,08:00_12:00,11.27
+Category,4-hour Departure Time Interval,Total Energy (KJ),
+,,04:00_08:00,104274296.00
+,,08:00_12:00,88028584.00
+Category,4-hour Departure Time Interval,Total CO2 (g),
+,,04:00_08:00,7518168.00
+,,08:00_12:00,6345931.50
+Category,4-hour Departure Time Interval,Total NOx (g),
+,,04:00_08:00,17067.89
+,,08:00_12:00,13206.92
+Category,4-hour Departure Time Interval,Total CO (g),
+,,04:00_08:00,92556.94
+,,08:00_12:00,70635.77
+Category,4-hour Departure Time Interval,Total HC (g),
+,,04:00_08:00,2457.63
+,,08:00_12:00,2103.89
+Category,4-hour Departure Time Interval,Total Gallon,
+,,04:00_08:00,856.81
+,,08:00_12:00,723.32
+Category,4-hour Departure Time Interval,Avg Energy (KJ/mile),
+,,04:00_08:00,2633.19
+,,08:00_12:00,2222.94
+Category,4-hour Departure Time Interval,Avg CO2 (g/mile),
+,,04:00_08:00,189.85
+,,08:00_12:00,160.25
+Category,4-hour Departure Time Interval,Avg NOx (g/mile),
+,,04:00_08:00, 0.43
+,,08:00_12:00, 0.33
+Category,4-hour Departure Time Interval,Avg CO (g/mile),
+,,04:00_08:00, 2.34
+,,08:00_12:00, 1.78
+Category,4-hour Departure Time Interval,Avg HC (g/mile),
+,,04:00_08:00, 0.06
+,,08:00_12:00, 0.05
+Category,4-hour Departure Time Interval,Avg Miles per Gallon,
+,,04:00_08:00,46.22
+,,08:00_12:00,54.75
+Category,Distance Bin (0.2 ml Interval),Number of Vehicles,7200.00
+Category,Distance Bin (0.2 ml Interval),Cumulative Number of Vehicles,7200.00
+Category,Distance Bin (0.2 ml Interval),Total Travel Time (min),80822.93
+Category,Distance Bin (0.2 ml Interval),Total Travel Distance (mile),79200.00
+Category,Distance Bin (0.2 ml Interval),Avg Travel Time (min),11.23
+Category,Distance Bin (0.2 ml Interval),Avg Travel Distance (mile),11.00
+Category,Distance Bin (0.2 ml Interval),Avg Speed (mile/hour),58.80
+Category,Distance Bin (0.2 ml Interval),Avg Travel Time Per Mile (min/mile), 1.02
+Category,Distance Bin (0.2 ml Interval),Travel Time Index: mean/FFTT, 1.02
+Category,Distance Bin (0.2 ml Interval),Avg Travel Time STD (min), 0.08
+Category,Distance Bin (0.2 ml Interval),95th Percentile Travel Time (min),11.38
+Category,Distance Bin (0.2 ml Interval),90th Percentile Travel Time (min),11.35
+Category,Distance Bin (0.2 ml Interval),80th Percentile Travel Time (min),11.30
+Category,Distance Bin (0.2 ml Interval),Planning Time Index: 95th percentile/FFTT, 1.03
+Category,Distance Bin (0.2 ml Interval),Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,Distance Bin (0.2 ml Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,Distance Bin (0.2 ml Interval),95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (0.2 ml Interval),90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (0.2 ml Interval),80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (0.2 ml Interval),Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,Distance Bin (0.2 ml Interval),Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,Distance Bin (0.2 ml Interval),Total Energy (KJ),192303392.00
+Category,Distance Bin (0.2 ml Interval),Total CO2 (g),13864093.00
+Category,Distance Bin (0.2 ml Interval),Total NOx (g),30274.76
+Category,Distance Bin (0.2 ml Interval),Total CO (g),163192.75
+Category,Distance Bin (0.2 ml Interval),Total HC (g),4561.51
+Category,Distance Bin (0.2 ml Interval),Total Gallon,1580.14
+Category,Distance Bin (0.2 ml Interval),Avg Energy (KJ/mile),2428.07
+Category,Distance Bin (0.2 ml Interval),Avg CO2 (g/mile),175.05
+Category,Distance Bin (0.2 ml Interval),Avg NOx (g/mile), 0.38
+Category,Distance Bin (0.2 ml Interval),Avg CO (g/mile), 2.06
+Category,Distance Bin (0.2 ml Interval),Avg HC (g/mile), 0.06
+Category,Distance Bin (0.2 ml Interval),Avg Miles per Gallon,50.12
+Category,Distance Bin (1 ml Interval),Number of Vehicles,7200.00
+Category,Distance Bin (1 ml Interval),Cumulative Number of Vehicles,7200.00
+Category,Distance Bin (1 ml Interval),Total Travel Time (min),80822.93
+Category,Distance Bin (1 ml Interval),Total Travel Distance (mile),79200.00
+Category,Distance Bin (1 ml Interval),Avg Travel Time (min),11.23
+Category,Distance Bin (1 ml Interval),Avg Travel Distance (mile),11.00
+Category,Distance Bin (1 ml Interval),Avg Speed (mile/hour),58.80
+Category,Distance Bin (1 ml Interval),Avg Travel Time Per Mile (min/mile), 1.02
+Category,Distance Bin (1 ml Interval),Travel Time Index: mean/FFTT, 1.02
+Category,Distance Bin (1 ml Interval),Avg Travel Time STD (min), 0.08
+Category,Distance Bin (1 ml Interval),95th Percentile Travel Time (min),11.38
+Category,Distance Bin (1 ml Interval),90th Percentile Travel Time (min),11.35
+Category,Distance Bin (1 ml Interval),80th Percentile Travel Time (min),11.30
+Category,Distance Bin (1 ml Interval),Planning Time Index: 95th percentile/FFTT, 1.03
+Category,Distance Bin (1 ml Interval),Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,Distance Bin (1 ml Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,Distance Bin (1 ml Interval),95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (1 ml Interval),90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (1 ml Interval),80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (1 ml Interval),Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,Distance Bin (1 ml Interval),Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,Distance Bin (1 ml Interval),Total Energy (KJ),192303392.00
+Category,Distance Bin (1 ml Interval),Total CO2 (g),13864093.00
+Category,Distance Bin (1 ml Interval),Total NOx (g),30274.76
+Category,Distance Bin (1 ml Interval),Total CO (g),163192.75
+Category,Distance Bin (1 ml Interval),Total HC (g),4561.51
+Category,Distance Bin (1 ml Interval),Total Gallon,1580.14
+Category,Distance Bin (1 ml Interval),Avg Energy (KJ/mile),2428.07
+Category,Distance Bin (1 ml Interval),Avg CO2 (g/mile),175.05
+Category,Distance Bin (1 ml Interval),Avg NOx (g/mile), 0.38
+Category,Distance Bin (1 ml Interval),Avg CO (g/mile), 2.06
+Category,Distance Bin (1 ml Interval),Avg HC (g/mile), 0.06
+Category,Distance Bin (1 ml Interval),Avg Miles per Gallon,50.12
+Category,Distance Bin (2 ml Interval),Number of Vehicles,7200.00
+Category,Distance Bin (2 ml Interval),Cumulative Number of Vehicles,7200.00
+Category,Distance Bin (2 ml Interval),Total Travel Time (min),80822.93
+Category,Distance Bin (2 ml Interval),Total Travel Distance (mile),79200.00
+Category,Distance Bin (2 ml Interval),Avg Travel Time (min),11.23
+Category,Distance Bin (2 ml Interval),Avg Travel Distance (mile),11.00
+Category,Distance Bin (2 ml Interval),Avg Speed (mile/hour),58.80
+Category,Distance Bin (2 ml Interval),Avg Travel Time Per Mile (min/mile), 1.02
+Category,Distance Bin (2 ml Interval),Travel Time Index: mean/FFTT, 1.02
+Category,Distance Bin (2 ml Interval),Avg Travel Time STD (min), 0.08
+Category,Distance Bin (2 ml Interval),95th Percentile Travel Time (min),11.38
+Category,Distance Bin (2 ml Interval),90th Percentile Travel Time (min),11.35
+Category,Distance Bin (2 ml Interval),80th Percentile Travel Time (min),11.30
+Category,Distance Bin (2 ml Interval),Planning Time Index: 95th percentile/FFTT, 1.03
+Category,Distance Bin (2 ml Interval),Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,Distance Bin (2 ml Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,Distance Bin (2 ml Interval),95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (2 ml Interval),90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (2 ml Interval),80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (2 ml Interval),Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,Distance Bin (2 ml Interval),Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,Distance Bin (2 ml Interval),Total Energy (KJ),192303392.00
+Category,Distance Bin (2 ml Interval),Total CO2 (g),13864093.00
+Category,Distance Bin (2 ml Interval),Total NOx (g),30274.76
+Category,Distance Bin (2 ml Interval),Total CO (g),163192.75
+Category,Distance Bin (2 ml Interval),Total HC (g),4561.51
+Category,Distance Bin (2 ml Interval),Total Gallon,1580.14
+Category,Distance Bin (2 ml Interval),Avg Energy (KJ/mile),2428.07
+Category,Distance Bin (2 ml Interval),Avg CO2 (g/mile),175.05
+Category,Distance Bin (2 ml Interval),Avg NOx (g/mile), 0.38
+Category,Distance Bin (2 ml Interval),Avg CO (g/mile), 2.06
+Category,Distance Bin (2 ml Interval),Avg HC (g/mile), 0.06
+Category,Distance Bin (2 ml Interval),Avg Miles per Gallon,50.12
+Category,Distance Bin (5 ml Interval),Number of Vehicles,7200.00
+Category,Distance Bin (5 ml Interval),Cumulative Number of Vehicles,7200.00
+Category,Distance Bin (5 ml Interval),Total Travel Time (min),80822.93
+Category,Distance Bin (5 ml Interval),Total Travel Distance (mile),79200.00
+Category,Distance Bin (5 ml Interval),Avg Travel Time (min),11.23
+Category,Distance Bin (5 ml Interval),Avg Travel Distance (mile),11.00
+Category,Distance Bin (5 ml Interval),Avg Speed (mile/hour),58.80
+Category,Distance Bin (5 ml Interval),Avg Travel Time Per Mile (min/mile), 1.02
+Category,Distance Bin (5 ml Interval),Travel Time Index: mean/FFTT, 1.02
+Category,Distance Bin (5 ml Interval),Avg Travel Time STD (min), 0.08
+Category,Distance Bin (5 ml Interval),95th Percentile Travel Time (min),11.38
+Category,Distance Bin (5 ml Interval),90th Percentile Travel Time (min),11.35
+Category,Distance Bin (5 ml Interval),80th Percentile Travel Time (min),11.30
+Category,Distance Bin (5 ml Interval),Planning Time Index: 95th percentile/FFTT, 1.03
+Category,Distance Bin (5 ml Interval),Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,Distance Bin (5 ml Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,Distance Bin (5 ml Interval),95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (5 ml Interval),90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (5 ml Interval),80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (5 ml Interval),Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,Distance Bin (5 ml Interval),Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,Distance Bin (5 ml Interval),Total Energy (KJ),192303392.00
+Category,Distance Bin (5 ml Interval),Total CO2 (g),13864093.00
+Category,Distance Bin (5 ml Interval),Total NOx (g),30274.76
+Category,Distance Bin (5 ml Interval),Total CO (g),163192.75
+Category,Distance Bin (5 ml Interval),Total HC (g),4561.51
+Category,Distance Bin (5 ml Interval),Total Gallon,1580.14
+Category,Distance Bin (5 ml Interval),Avg Energy (KJ/mile),2428.07
+Category,Distance Bin (5 ml Interval),Avg CO2 (g/mile),175.05
+Category,Distance Bin (5 ml Interval),Avg NOx (g/mile), 0.38
+Category,Distance Bin (5 ml Interval),Avg CO (g/mile), 2.06
+Category,Distance Bin (5 ml Interval),Avg HC (g/mile), 0.06
+Category,Distance Bin (5 ml Interval),Avg Miles per Gallon,50.12
+Category,Distance Bin (10 ml Interval),Number of Vehicles,7200.00
+Category,Distance Bin (10 ml Interval),Cumulative Number of Vehicles,7200.00
+Category,Distance Bin (10 ml Interval),Total Travel Time (min),80822.93
+Category,Distance Bin (10 ml Interval),Total Travel Distance (mile),79200.00
+Category,Distance Bin (10 ml Interval),Avg Travel Time (min),11.23
+Category,Distance Bin (10 ml Interval),Avg Travel Distance (mile),11.00
+Category,Distance Bin (10 ml Interval),Avg Speed (mile/hour),58.80
+Category,Distance Bin (10 ml Interval),Avg Travel Time Per Mile (min/mile), 1.02
+Category,Distance Bin (10 ml Interval),Travel Time Index: mean/FFTT, 1.02
+Category,Distance Bin (10 ml Interval),Avg Travel Time STD (min), 0.08
+Category,Distance Bin (10 ml Interval),95th Percentile Travel Time (min),11.38
+Category,Distance Bin (10 ml Interval),90th Percentile Travel Time (min),11.35
+Category,Distance Bin (10 ml Interval),80th Percentile Travel Time (min),11.30
+Category,Distance Bin (10 ml Interval),Planning Time Index: 95th percentile/FFTT, 1.03
+Category,Distance Bin (10 ml Interval),Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,Distance Bin (10 ml Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,Distance Bin (10 ml Interval),95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (10 ml Interval),90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (10 ml Interval),80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Distance Bin (10 ml Interval),Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,Distance Bin (10 ml Interval),Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,Distance Bin (10 ml Interval),Total Energy (KJ),192303392.00
+Category,Distance Bin (10 ml Interval),Total CO2 (g),13864093.00
+Category,Distance Bin (10 ml Interval),Total NOx (g),30274.76
+Category,Distance Bin (10 ml Interval),Total CO (g),163192.75
+Category,Distance Bin (10 ml Interval),Total HC (g),4561.51
+Category,Distance Bin (10 ml Interval),Total Gallon,1580.14
+Category,Distance Bin (10 ml Interval),Avg Energy (KJ/mile),2428.07
+Category,Distance Bin (10 ml Interval),Avg CO2 (g/mile),175.05
+Category,Distance Bin (10 ml Interval),Avg NOx (g/mile), 0.38
+Category,Distance Bin (10 ml Interval),Avg CO (g/mile), 2.06
+Category,Distance Bin (10 ml Interval),Avg HC (g/mile), 0.06
+Category,Distance Bin (10 ml Interval),Avg Miles per Gallon,50.12
+Category,Travel Time Bin (2 min Interval),Number of Vehicles,7200.00
+Category,Travel Time Bin (2 min Interval),Cumulative Number of Vehicles,7200.00
+Category,Travel Time Bin (2 min Interval),Total Travel Time (min),80822.93
+Category,Travel Time Bin (2 min Interval),Total Travel Distance (mile),79200.00
+Category,Travel Time Bin (2 min Interval),Avg Travel Time (min),11.23
+Category,Travel Time Bin (2 min Interval),Avg Travel Distance (mile),11.00
+Category,Travel Time Bin (2 min Interval),Avg Speed (mile/hour),58.80
+Category,Travel Time Bin (2 min Interval),Avg Travel Time Per Mile (min/mile), 1.02
+Category,Travel Time Bin (2 min Interval),Travel Time Index: mean/FFTT, 1.02
+Category,Travel Time Bin (2 min Interval),Avg Travel Time STD (min), 0.08
+Category,Travel Time Bin (2 min Interval),95th Percentile Travel Time (min),11.38
+Category,Travel Time Bin (2 min Interval),90th Percentile Travel Time (min),11.35
+Category,Travel Time Bin (2 min Interval),80th Percentile Travel Time (min),11.30
+Category,Travel Time Bin (2 min Interval),Planning Time Index: 95th percentile/FFTT, 1.03
+Category,Travel Time Bin (2 min Interval),Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,Travel Time Bin (2 min Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,Travel Time Bin (2 min Interval),95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Travel Time Bin (2 min Interval),90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Travel Time Bin (2 min Interval),80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Travel Time Bin (2 min Interval),Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,Travel Time Bin (2 min Interval),Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,Travel Time Bin (2 min Interval),Total Energy (KJ),192303392.00
+Category,Travel Time Bin (2 min Interval),Total CO2 (g),13864093.00
+Category,Travel Time Bin (2 min Interval),Total NOx (g),30274.76
+Category,Travel Time Bin (2 min Interval),Total CO (g),163192.75
+Category,Travel Time Bin (2 min Interval),Total HC (g),4561.51
+Category,Travel Time Bin (2 min Interval),Total Gallon,1580.14
+Category,Travel Time Bin (2 min Interval),Avg Energy (KJ/mile),2428.07
+Category,Travel Time Bin (2 min Interval),Avg CO2 (g/mile),175.05
+Category,Travel Time Bin (2 min Interval),Avg NOx (g/mile), 0.38
+Category,Travel Time Bin (2 min Interval),Avg CO (g/mile), 2.06
+Category,Travel Time Bin (2 min Interval),Avg HC (g/mile), 0.06
+Category,Travel Time Bin (2 min Interval),Avg Miles per Gallon,50.12
+Category,Travel Time Bin (5 min Interval),Number of Vehicles,7200.00
+Category,Travel Time Bin (5 min Interval),Cumulative Number of Vehicles,7200.00
+Category,Travel Time Bin (5 min Interval),Total Travel Time (min),80822.93
+Category,Travel Time Bin (5 min Interval),Total Travel Distance (mile),79200.00
+Category,Travel Time Bin (5 min Interval),Avg Travel Time (min),11.23
+Category,Travel Time Bin (5 min Interval),Avg Travel Distance (mile),11.00
+Category,Travel Time Bin (5 min Interval),Avg Speed (mile/hour),58.80
+Category,Travel Time Bin (5 min Interval),Avg Travel Time Per Mile (min/mile), 1.02
+Category,Travel Time Bin (5 min Interval),Travel Time Index: mean/FFTT, 1.02
+Category,Travel Time Bin (5 min Interval),Avg Travel Time STD (min), 0.08
+Category,Travel Time Bin (5 min Interval),95th Percentile Travel Time (min),11.38
+Category,Travel Time Bin (5 min Interval),90th Percentile Travel Time (min),11.35
+Category,Travel Time Bin (5 min Interval),80th Percentile Travel Time (min),11.30
+Category,Travel Time Bin (5 min Interval),Planning Time Index: 95th percentile/FFTT, 1.03
+Category,Travel Time Bin (5 min Interval),Buffer Index: (95th percentile - mean)/mean, 0.01
+Category,Travel Time Bin (5 min Interval),Skew Index: (90th %ile-median)/(median-10th %ile), 1.74
+Category,Travel Time Bin (5 min Interval),95th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Travel Time Bin (5 min Interval),90th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Travel Time Bin (5 min Interval),80th Percentile Travel Time Per Mile (min/mile), 1.03
+Category,Travel Time Bin (5 min Interval),Total Generalized Time:TT+Toll/VOT (min),80822.93
+Category,Travel Time Bin (5 min Interval),Avg Generalized Travel Time:TT+Toll/VOT (min),11.23
+Category,Travel Time Bin (5 min Interval),Total Energy (KJ),192303392.00
+Category,Travel Time Bin (5 min Interval),Total CO2 (g),13864093.00
+Category,Travel Time Bin (5 min Interval),Total NOx (g),30274.76
+Category,Travel Time Bin (5 min Interval),Total CO (g),163192.75
+Category,Travel Time Bin (5 min Interval),Total HC (g),4561.51
+Category,Travel Time Bin (5 min Interval),Total Gallon,1580.14
+Category,Travel Time Bin (5 min Interval),Avg Energy (KJ/mile),2428.07
+Category,Travel Time Bin (5 min Interval),Avg CO2 (g/mile),175.05
+Category,Travel Time Bin (5 min Interval),Avg NOx (g/mile), 0.38
+Category,Travel Time Bin (5 min Interval),Avg CO (g/mile), 2.06
+Category,Travel Time Bin (5 min Interval),Avg HC (g/mile), 0.06
+Category,Travel Time Bin (5 min Interval),Avg Miles per Gallon,50.12

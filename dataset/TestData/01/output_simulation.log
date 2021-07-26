@@ -1,0 +1,112 @@
+--- Current Directory: C:\DataSets\EPA\01 ---
+
+---DTALite: A Fast Open-Source DTA Simulation Engine---
+Version 1.1.0, Release Date Jul  2 2014.
+Simulation Horizon (min) = 840
+Departure Time Interval (min) = 15
+Number of Iterations = 1
+Continuous Flow with Link Capacity Constrai
+Traffic Flow Model =  Point Queue Model
+Step 1: Reading file input_node.csv...
+Step 2: Reading file input_link_type.csv..
+Step 3: Reading file input_link.csv...
+Step 5: Reading file input_activity_location.csv...
+1 -> 1
+2 -> 2
+38 -> 38
+39 -> 39
+40 -> 40
+41 -> 41
+Step 6: Reading file input_vehicle_type.csv...
+Step 7.1: Reading file input_demand_type.csv...
+Step 7.2: Reading file input_pricing_type.csv...
+Step 9: Reading file input_VOT.csv...
+Step 10: Reading files  based on user settings in  meta database file...
+Total demand volume = 10800.000
+Total number of vehicles to be simulated = 10800
+ -- zone-specific demand data -- 
+Zone 1,demand =10800.000, agent count =10800
+Number of Zones = 41
+Number of Nodes = 40
+Number of Links = 55
+Number of Vehicles to be Simulated = 10800
+Demand Loading Period = 420 min -> 540 min.
+Number of Vehicle Types = 5
+Number of Demand Types = 4
+Number of VOT records = 47
+Reading file Scenario_Incident.csv
+incident records = 0
+Reading file Scenario_Link_Based_Toll.csv
+Reading file Scenario_Work_Zone.csv
+work zone records = 1
+Reading file Scenario_Dynamic_Message_Sign.csv
+VMS records = 0
+:: start assignment CPU Clock: 00:00:00 --
+:: complete assignment CPU Clock: 00:00:00 --
+simulation clock:  7:00, # of vehicles  -- Generated: 1, In network: 1
+ -- CPU Clock: 00:00:00 --
+simulation clock:  7:05, # of vehicles  -- Generated: 450, In network: 450
+simulation clock:  7:10, # of vehicles  -- Generated: 901, In network: 901
+simulation clock:  7:15, # of vehicles  -- Generated: 1350, In network: 1178
+simulation clock:  7:20, # of vehicles  -- Generated: 1801, In network: 1404
+simulation clock:  7:25, # of vehicles  -- Generated: 2250, In network: 1628
+simulation clock:  7:30, # of vehicles  -- Generated: 2701, In network: 1854
+simulation clock:  7:35, # of vehicles  -- Generated: 3150, In network: 2078
+simulation clock:  7:40, # of vehicles  -- Generated: 3601, In network: 2304
+simulation clock:  7:45, # of vehicles  -- Generated: 4050, In network: 2528
+simulation clock:  7:50, # of vehicles  -- Generated: 4502, In network: 2755
+simulation clock:  7:55, # of vehicles  -- Generated: 4953, In network: 2981
+simulation clock:  8:00, # of vehicles  -- Generated: 5402, In network: 3205
+ -- CPU Clock: 00:00:01 --
+simulation clock:  8:05, # of vehicles  -- Generated: 5853, In network: 3431
+simulation clock:  8:10, # of vehicles  -- Generated: 6302, In network: 3655
+simulation clock:  8:15, # of vehicles  -- Generated: 6753, In network: 3881
+simulation clock:  8:20, # of vehicles  -- Generated: 7202, In network: 4105
+simulation clock:  8:25, # of vehicles  -- Generated: 7653, In network: 4331
+simulation clock:  8:30, # of vehicles  -- Generated: 8102, In network: 4555
+simulation clock:  8:35, # of vehicles  -- Generated: 8553, In network: 4781
+simulation clock:  8:40, # of vehicles  -- Generated: 9002, In network: 5005
+simulation clock:  8:45, # of vehicles  -- Generated: 9453, In network: 5231
+simulation clock:  8:50, # of vehicles  -- Generated: 9904, In network: 5457
+simulation clock:  8:55, # of vehicles  -- Generated: 10353, In network: 5681
+simulation clock:  9:00, # of vehicles  -- Generated: 10800, In network: 5903
+ -- CPU Clock: 00:00:01 --
+simulation clock:  9:05, # of vehicles  -- Generated: 10800, In network: 5678
+simulation clock:  9:10, # of vehicles  -- Generated: 10800, In network: 5453
+simulation clock:  9:15, # of vehicles  -- Generated: 10800, In network: 5228
+simulation clock:  9:20, # of vehicles  -- Generated: 10800, In network: 5003
+simulation clock:  9:25, # of vehicles  -- Generated: 10800, In network: 4778
+simulation clock:  9:30, # of vehicles  -- Generated: 10800, In network: 4553
+simulation clock:  9:35, # of vehicles  -- Generated: 10800, In network: 4328
+simulation clock:  9:40, # of vehicles  -- Generated: 10800, In network: 4103
+simulation clock:  9:45, # of vehicles  -- Generated: 10800, In network: 3878
+simulation clock:  9:50, # of vehicles  -- Generated: 10800, In network: 3653
+simulation clock:  9:55, # of vehicles  -- Generated: 10800, In network: 3428
+simulation clock: 10:00, # of vehicles  -- Generated: 10800, In network: 3203
+ -- CPU Clock: 00:00:02 --
+simulation clock: 10:05, # of vehicles  -- Generated: 10800, In network: 2969
+simulation clock: 10:10, # of vehicles  -- Generated: 10800, In network: 2294
+simulation clock: 10:15, # of vehicles  -- Generated: 10800, In network: 1619
+simulation clock: 10:20, # of vehicles  -- Generated: 10800, In network: 944
+simulation clock: 10:25, # of vehicles  -- Generated: 10800, In network: 269
+CPU Clock: 00:00:02 --Iteration: 0, Average Trip Time: 65.092, Travel Time Index: 6.512, Average Distance: 11.000, Switch %:100.000, Number of Vehicles Complete Their Trips: 10800, 100.000%
+--- MOE for vehicles completing trips ---
+ # of Vehicles = 10800 AvgTripTime = 65.122 (min), AvgDistance = 11.000 (miles), AvgSpeed =  10.135 (mph)
+--- MOE for Each Information Class ---
+Hist Knowledge (VMS non-responsive): # of Vehicles = 10800 ,AvgTripTime = 65.122 (min), AvgDistance = 11.000 (miles), AvgSpeed =  10.135 (mph)
+
+--- MOE for Each Vehicle Type ---
+SOV Passenger Car: # of Vehicles = 9720 ,AvgTripTime = 65.119 (min), AvgDistance = 11.000 (miles), AvgSpeed =  10.135 (mph)
+HOV Passenger Car: # of Vehicles = 540 ,AvgTripTime = 65.146 (min), AvgDistance = 11.000 (miles), AvgSpeed =  10.131 (mph)
+Truck            : # of Vehicles = 540 ,AvgTripTime = 65.149 (min), AvgDistance = 11.000 (miles), AvgSpeed =  10.131 (mph)
+
+--- MOE for Each Departure Time Interval ---
+Time:420 min, # of Vehicles = 1349 ,AvgTripTime = 18.702 (min), AvgDistance = 11.000 (miles), AvgSpeed =  35.291 (mph)
+Time:435 min, # of Vehicles = 1351 ,AvgTripTime = 33.706 (min), AvgDistance = 11.000 (miles), AvgSpeed =  19.581 (mph)
+Time:450 min, # of Vehicles = 1349 ,AvgTripTime = 48.710 (min), AvgDistance = 11.000 (miles), AvgSpeed =  13.549 (mph)
+Time:465 min, # of Vehicles = 1351 ,AvgTripTime = 63.715 (min), AvgDistance = 11.000 (miles), AvgSpeed =  10.359 (mph)
+Time:480 min, # of Vehicles = 1351 ,AvgTripTime = 78.730 (min), AvgDistance = 11.000 (miles), AvgSpeed =  8.383 (mph)
+Time:495 min, # of Vehicles = 1349 ,AvgTripTime = 93.297 (min), AvgDistance = 11.000 (miles), AvgSpeed =  7.074 (mph)
+Time:510 min, # of Vehicles = 1351 ,AvgTripTime = 94.549 (min), AvgDistance = 11.000 (miles), AvgSpeed =  6.980 (mph)
+Time:525 min, # of Vehicles = 1349 ,AvgTripTime = 89.553 (min), AvgDistance = 11.000 (miles), AvgSpeed =  7.370 (mph)
+
